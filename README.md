@@ -1,139 +1,206 @@
-# 📚 Miniguia de Estudos: Inteligência Artificial na Prática com NotebookLM
+# 🚀 Miniguia de Inteligência Artificial com NotebookLM
 
-## 🎯 Contexto e Objetivo
+> 📌 Projeto desenvolvido para o desafio da DIO com foco em aprendizagem ativa utilizando Inteligência Artificial.
 
-Este projeto foi desenvolvido como parte do desafio da DIO com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa utilizando o NotebookLM.
+---
 
-**Tema escolhido:**  
-Inteligência Artificial aplicada — como escolher a melhor IA para cada tipo de uso no mercado.
+## 🎯 Objetivo
 
-### Objetivos:
-- Compreender os principais conceitos de IA  
-- Identificar ferramentas mais usadas no mercado  
-- Aprender a escolher a IA adequada para cada aplicação  
-- Desenvolver pensamento crítico utilizando IA  
+Este projeto tem como objetivo explorar o uso da Inteligência Artificial como ferramenta de estudo, utilizando o NotebookLM para organizar informações, gerar insights e construir conhecimento estruturado.
+
+🔍 **Tema central:**
+Como escolher a melhor IA para diferentes aplicações no mercado.
+
+---
+
+## 🧠 Metodologia
+
+O projeto foi desenvolvido com apoio do NotebookLM, utilizado para:
+
+* 📚 Organizar fontes confiáveis
+* 🤖 Gerar resumos automáticos
+* ❓ Criar perguntas e respostas
+* 🧩 Estruturar o conhecimento
+
+🔗 Acesse o projeto:
+https://notebooklm.google.com/notebook/c62a392a-b427-4279-a62c-4cdcf0797c59
 
 ---
 
 ## 🔎 Curadoria de Fontes
 
-As seguintes fontes foram utilizadas no NotebookLM:
+### 📚 Artigos e Guias
 
-- https://cloud.google.com/learn/what-is-artificial-intelligence  
-- https://aws.amazon.com/what-is/artificial-intelligence/  
-- https://www.ibm.com/topics/artificial-intelligence  
-- https://towardsdatascience.com/  
-
----
-
-## 🧠 Engenharia de Prompts e Aprendizados
-
-### 🔹 Prompt 1
-> Explique os principais tipos de Inteligência Artificial com exemplos práticos.
-
-**Resposta obtida:**  
-A IA pode ser classificada em Machine Learning, Deep Learning e IA Generativa.
-
-**Aprendizado:**  
-Respostas genéricas exigem refinamento do prompt.
+* TOTVS – Tipos de Inteligência Artificial
+* IBM – Artificial Intelligence (PT/EN)
+* Cubo Itaú – IA aplicada no mercado
 
 ---
 
-### 🔹 Prompt 2
-> Quais são as ferramentas de IA mais utilizadas no mercado e suas aplicações?
+### 🌐 Plataformas
 
-**Resposta obtida:**  
-ChatGPT (texto), Claude (análise), Midjourney (imagem), TensorFlow (modelos).
-
-**Dificuldade:**  
-Faltou comparação entre ferramentas.
+* AWS → https://aws.amazon.com/ai/services/
+* Google Cloud → https://cloud.google.com
 
 ---
 
-### 🔹 Prompt 3
-> Compare as principais ferramentas de IA e explique quando usar cada uma.
+### 🎥 Conteúdo
 
-**Resposta obtida:**  
-Cada ferramenta é ideal para um tipo de problema (texto, imagem, dados, automação).
-
-**Insight:**  
-Prompts mais específicos geram respostas mais úteis.
+* CNI – O que é Inteligência Artificial
 
 ---
 
-## 📖 Miniguia de Estudo
+### 📄 Pesquisa
 
-### 📌 Resumo Estruturado
+* arXiv → https://arxiv.org
 
-A Inteligência Artificial é uma área da tecnologia que permite que sistemas simulem capacidades humanas como aprendizado, análise e tomada de decisão.
-
-Principais áreas:
-
-- **Machine Learning:** aprendizado baseado em dados  
-- **Deep Learning:** redes neurais profundas  
-- **IA Generativa:** criação de conteúdo  
+📌 Critério: fontes confiáveis, atualizadas e relevantes.
 
 ---
 
-## 🤖 IAs Mais Usadas no Mercado
+## 🧠 Engenharia de Prompts
 
-### 🧠 Texto e Conhecimento
-- ChatGPT → uso geral e aprendizado  
-- Claude → análise profunda e projetos complexos  
-- Gemini → integração com ferramentas Google  
+### 🔹 Prompt Genérico
+
+> Explique Inteligência Artificial
+
+📉 Resultado: superficial
+
+---
+
+### 🔹 Prompt Refinado
+
+> Explique IA com exemplos práticos
+
+📈 Resultado: mais útil
+
+---
+
+### 🔹 Prompt Estratégico
+
+> Compare ferramentas de IA e quando usar
+
+🚀 Resultado: visão prática
+
+---
+
+📌 **Aprendizado:**
+Quanto mais específico o prompt, melhor a resposta.
+
+---
+
+## 🕰️ Evolução da Inteligência Artificial
+
+### 🧩 Fundação (1936–1956)
+
+* Alan Turing e a base da computação
+* Teste de Turing
+* Criação do termo IA
+
+---
+
+### ❄️ Invernos da IA (1960–1990)
+
+* ELIZA e primeiros sistemas
+* Limitações tecnológicas
+* Queda de investimento
+
+---
+
+### 🧠 Era dos Dados (1997–2018)
+
+* Deep Blue (xadrez)
+* Watson (Jeopardy)
+* AlphaGo
+* Avanço do Deep Learning
+
+---
+
+### 🤖 Era Moderna (2018–Atual)
+
+* IA Generativa
+* ChatGPT e modelos de linguagem
+* IA Agêntica
+
+---
+
+## 🤖 Ferramentas de IA
+
+### 🧠 Texto
+
+* ChatGPT
+* Claude
+* Gemini
 
 ---
 
 ### 💻 Programação
-- GitHub Copilot → produtividade no código  
-- ChatGPT → explicação e debug  
-- Claude → leitura e refatoração de código  
+
+* GitHub Copilot
+* ChatGPT
+* Claude
 
 ---
 
-### 🎨 Imagem
-- Midjourney → criação artística  
-- DALL·E → geração por texto  
+### 🎨 Criatividade
+
+* Midjourney
+* DALL·E
 
 ---
 
-### 📊 Dados e Machine Learning
-- TensorFlow → criação de modelos  
-- Scikit-learn → análise de dados  
+### 📊 Dados
+
+* TensorFlow
+* Scikit-learn
 
 ---
 
-## 🧭 Como Escolher a IA Certa
+## 🧭 Como Escolher a IA
 
-| Objetivo | Ferramenta |
-|----------|----------|
-| Estudar | ChatGPT / Claude |
-| Programar | Copilot / Claude |
-| Criar imagens | Midjourney |
-| Analisar dados | TensorFlow |
+| Objetivo     | Ferramenta       |
+| ------------ | ---------------- |
+| Estudo       | ChatGPT / Claude |
+| Código       | Copilot          |
+| Criatividade | Midjourney       |
+| Dados        | TensorFlow       |
 
 ---
 
 ## 📚 Glossário
 
-- **Machine Learning:** aprendizado com dados  
-- **Deep Learning:** redes neurais profundas  
-- **Prompt:** comando dado à IA  
-- **IA Generativa:** criação de conteúdo  
+* **Machine Learning:** aprendizado com dados
+* **Deep Learning:** redes neurais
+* **Prompt:** instrução para IA
+* **IA Generativa:** criação de conteúdo
 
 ---
 
-## 🤖 Prompts Reutilizáveis
+## 💡 Insights
 
-- "Explique [tema] de forma simples"  
-- "Resuma [tema] em tópicos"  
-- "Compare [tecnologias]"  
-- "Dê exemplos práticos de [tema]"  
+* IA é ferramenta, não substituto
+* Prompts são fundamentais
+* Combinar IAs aumenta produtividade
+* Organização do conhecimento é essencial
 
 ---
 
 ## 🚀 Conclusão
 
-A utilização do NotebookLM permitiu organizar o conhecimento de forma estruturada e explorar o potencial da Inteligência Artificial como ferramenta de aprendizado.
+A Inteligência Artificial se tornou uma das principais tecnologias do mercado atual.
 
-O projeto demonstrou a importância da engenharia de prompts e da escolha adequada das ferramentas de IA para cada contexto.
+Este projeto demonstrou que:
+
+👉 Saber usar IA é mais importante do que apenas conhecer IA.
+
+---
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido por Michel Araujo
+
+---
+
+## ⭐ Considerações Finais
+
+Este repositório representa a aplicação prática de Inteligência Artificial no aprendizado, combinando teoria, prática e pensamento crítico.
