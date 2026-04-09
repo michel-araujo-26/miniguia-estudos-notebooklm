@@ -6,10 +6,20 @@
 
 ## 🎯 Objetivo
 
+
 Este projeto tem como objetivo explorar o uso da Inteligência Artificial como ferramenta de estudo, utilizando o NotebookLM para organizar informações, gerar insights e construir conhecimento estruturado.
 
-🔍 **Tema central:**
+Diante do crescimento acelerado da Inteligência Artificial — um tema em alta e presente na rotina de pessoas e empresas — surge a necessidade de compreender não apenas suas aplicações atuais, mas também **como tudo começou**.
+
+Atualmente, muitas pessoas utilizam ferramentas de IA no dia a dia, porém sem conhecer sua evolução, fundamentos e possibilidades. A partir disso, este projeto busca oferecer uma **base sólida de conhecimento**, permitindo entender a trajetória da IA e os caminhos disponíveis para otimizar atividades cotidianas.
+
+Para isso, foi realizada uma análise baseada em **fontes confiáveis**, com o objetivo de construir um *overview* do desenvolvimento do mercado de IA, destacando seus principais marcos históricos e os principais players responsáveis pelas ferramentas mais utilizadas atualmente.
+
+🔍 **Tema central:**  
 Como escolher a melhor IA para diferentes aplicações no mercado.
+
+📌 **Observação:**  
+O ecossistema de ferramentas de IA é amplo e diverso. Este projeto foca nas soluções mais populares e relevantes no contexto atual.
 
 ---
 
